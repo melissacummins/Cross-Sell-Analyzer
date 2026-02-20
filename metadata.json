@@ -1,0 +1,5 @@
+{
+  "name": "Cross-Sell Analyzer",
+  "description": "Analyze Shopify cross-purchase data to identify top upsell opportunities and bundle combinations.",
+  "requestFramePermissions": []
+}
